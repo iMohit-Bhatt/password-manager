@@ -1,0 +1,4 @@
+AMAZON | Mohit@gmail.com | 123456
+FACEBOOK | Mohit@gmail.com | 1234567
+amaxon | Mohit@gmail.com | 12345678
+1243 | Mohit@gmail.com | 124
